@@ -25,7 +25,9 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=MZbDLuIAAAAJ&hl=en"
-
+    - label: Scopus
+      icon: "fab fa-fw fa-scopus"  # 'fab' for brands, 'fas' for solid
+      url: "https://www.scopus.com/authid/detail.uri?authorId=57902619400"
 
 include:
   - _pages
