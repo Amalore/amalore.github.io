@@ -6,17 +6,17 @@ layout: single
 
 ## Talks and Presentations
 
-- Contributed talk titled *Binomial edge ideals of linear type* at the **Combinatorics and Geometry in İstanbul** held from August 5–6, 2025 at Bahçeşehir University (South Campus) in Beşiktaş, İstanbul.
+- Contributed talk titled *"Binomial edge ideals of linear type"* at the **Combinatorics and Geometry in İstanbul** held from August 5–6, 2025 at Bahçeşehir University (South Campus) in Beşiktaş, İstanbul.
 
-- Student seminar talk titled *Linear Type Ideals: A d-Sequence Approach* at **IIT Hyderabad** on August 27, 2024.
+- Student seminar talk titled *"Linear Type Ideals: A d-Sequence Approach"* at **IIT Hyderabad** on August 27, 2024.
 
-- Contributed talk titled *Positive Matching Decomposition of Hypergraphs* at the **19th Seminar on Commutative Algebra and Related Topics** held from January 31 – February 1, 2024 at the School of Mathematics of IPM, Tehran, Iran.
+- Contributed talk titled *"Positive Matching Decomposition of Hypergraphs"* at the **19th Seminar on Commutative Algebra and Related Topics** held from January 31 – February 1, 2024 at the School of Mathematics of IPM, Tehran, Iran.
 
-- Poster presentation titled *On Positive Matching Decomposition of Hypergraphs* at the **International Conference on Algebraic Geometry, Coding Theory and Combinatorics** held from December 4–8, 2023 at IIT Hyderabad.
+- Poster presentation titled *"On Positive Matching Decomposition of Hypergraphs"* at the **International Conference on Algebraic Geometry, Coding Theory and Combinatorics** held from December 4–8, 2023 at IIT Hyderabad.
 
-- Poster presentation titled *d-Sequence edge binomials, and regularity of powers of binomial edge ideals of trees* at **CoCAAG 2023** at IIT Hyderabad, February 8–11, 2023.
+- Poster presentation titled *"d-Sequence edge binomials, and regularity of powers of binomial edge ideals of trees"* at **CoCAAG 2023** at IIT Hyderabad, February 8–11, 2023.
 
-- Talk titled *Regularity of powers of binomial edge ideals* at the **Algebra and Number Theory Symposium** at the University of Hyderabad, February 4–5, 2023.
+- Talk titled *"Regularity of powers of binomial edge ideals"* at the **Algebra and Number Theory Symposium** at the University of Hyderabad, February 4–5, 2023.
 
 ---
 
