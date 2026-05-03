@@ -1,13 +1,18 @@
-title: "Amalore "
+title: "Amalore"
 name: "Marie Amalore Nambi"
 description: "Academic webpage"
 
+url: "https://yourusername.github.io"   # IMPORTANT
+baseurl: ""                             # keep empty
+
 remote_theme: "mmistakes/minimal-mistakes"
 
+minimal_mistakes_skin: "default"
+
 author:
-  name: "Your Name"
+  name: "Marie Amalore Nambi"   # FIXED
   avatar: "/images/profile.png"
-  bio: "Postdoctoral Researcher"
+  bio: "Postdoctoral Researcher, Sabancı University"
   location: "Istanbul, Turkey"
   email: "your@email.com"
   links:
@@ -19,9 +24,10 @@ author:
       url: "https://github.com/yourusername"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
-      url: "your-link"
+      url: "https://scholar.google.com/yourprofile"
 
-minimal_mistakes_skin: "default"
+include:
+  - _pages
 
 plugins:
   - jekyll-include-cache
