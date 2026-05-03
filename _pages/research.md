@@ -4,6 +4,8 @@ permalink: /research/
 layout: single
 ---
 
+📝 My preprints can be found on arXiv: [View my arXiv profile](https://arxiv.org/a/amalorenambi_m_1.html).
+
 ## Publications
 
 1. **Marie Amalore Nambi**, Neeraj Kumar, and Chitra Venugopal, *(Almost) complete intersection Lovász-Saks-Schrijver ideals and regularity of their powers*, To appear in Journal of Algebra and Its Applications, 25, (2026), no. 9, Article No. 2650093. [![DOI](https://img.shields.io/badge/DOI-10.1142/S0219498826500933-blue)](10.1142/S0219498826500933)
