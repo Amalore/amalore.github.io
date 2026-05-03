@@ -7,7 +7,7 @@ baseurl: ""                             # keep empty
 
 remote_theme: "mmistakes/minimal-mistakes"
 
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "aqua"
 
 author:
   name: "Marie Amalore Nambi"   # FIXED
@@ -29,5 +29,4 @@ author:
 include:
   - _pages
 
-plugins:
-  - jekyll-include-cache
+
