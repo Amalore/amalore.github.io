@@ -29,4 +29,5 @@ author:
 include:
   - _pages
 
-
+plugins:
+  - jekyll-include-cache
