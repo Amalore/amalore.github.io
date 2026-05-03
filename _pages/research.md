@@ -6,7 +6,7 @@ layout: single
 
 ## Publications
 
-1. **Marie Amalore Nambi**, Neeraj Kumar, and Chitra Venugopal, *(Almost) complete intersection Lovász-Saks-Schrijver ideals and regularity of their powers*, To appear in Journal of Algebra and Its Applications, 25, (2026), no. 9, Article No. 2650093. [![DOI](https://img.shields.io/badge/DOI-)](10.1142/S0219498826500933)
+1. **Marie Amalore Nambi**, Neeraj Kumar, and Chitra Venugopal, *(Almost) complete intersection Lovász-Saks-Schrijver ideals and regularity of their powers*, To appear in Journal of Algebra and Its Applications, 25, (2026), no. 9, Article No. 2650093. [![DOI](https://img.shields.io/badge/DOI- -blue)](10.1142/S0219498826500933)
 
 2. **Marie Amalore Nambi** and Neeraj Kumar, *On Positive Matching Decomposition Conjectures of Hypergraphs*, International Journal of Algebra and Computation, 35 (2025), no. 8, 1181-1203. [![DOI](https://img.shields.io/badge/DOI-)](https://doi.org/10.1142/S0218196725500390)
 
