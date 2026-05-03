@@ -1,8 +1,8 @@
-title: "Amalore"
+title: "Amalore Nambi"
 name: "Marie Amalore Nambi"
 description: "Academic webpage"
 
-url: "https://yourusername.github.io"   # IMPORTANT
+url: "https://amalore.github.io"   # IMPORTANT
 baseurl: ""                             # keep empty
 
 remote_theme: "mmistakes/minimal-mistakes"
@@ -14,17 +14,17 @@ author:
   avatar: "/images/profile.png"
   bio: "Postdoctoral Researcher, Sabancı University"
   location: "Istanbul, Turkey"
-  email: "your@email.com"
+  email: "amalore.p@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "mailto:your@email.com"
+      url: "mailto:amalore.p@gmail.com"
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/yourusername"
+      url: "https://github.com/Amalore"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
-      url: "https://scholar.google.com/yourprofile"
+      url: "https://scholar.google.com/citations?user=MZbDLuIAAAAJ&hl=en"
 
 include:
   - _pages
