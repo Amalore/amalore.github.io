@@ -9,8 +9,9 @@ I am currently a postdoctoral researcher at Sabancı University, Istanbul, Turke
 
 ### Education
 
-🎓 *Postdoctoral Researcher*, [Sabancı University](https://www.sabanciuniv.edu/tr), Istanbul, Turkey  📅 February 2025 – Present  
-🎓 *PhD in Mathematics*, [Indian Institute of Technology Hyderabad](https://iith.ac.in/), India  📅 June 2024 
+🎓 *Postdoctoral Researcher*, [Sabancı University](https://www.sabanciuniv.edu/tr), Istanbul, Turkey
+📅 February 2025 – Present  
+🎓 *PhD in Mathematics*, [Indian Institute of Technology Hyderabad](https://iith.ac.in/), India (June 2024) 
   **Thesis:** *Binomial Edge Ideals, Lovász–Saks–Schrijver Ideals, and the Regularity of Their Powers*  
   **Supervisor:** Prof. Neeraj Kumar  
 🎓 *MPhil in Mathematics*, [Anna University Chennai](https://www.annauniv.edu/)  
