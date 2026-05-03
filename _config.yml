@@ -24,7 +24,7 @@ author:
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=MZbDLuIAAAAJ&hl=en"
       - label: "Scopus"
-      icon: "ai ai-scopus"
+      icon: "fas fa-book"
       url: "https://www.scopus.com/authid/detail.uri?authorId=57902619400#"
 
 include:
