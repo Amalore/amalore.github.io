@@ -4,4 +4,5 @@ permalink: /contact/
 layout: single
 ---
 
-Email: your@email.com
+**Address:** G-13, FENS, Sabancı University, Istanbul, Türkiye  
+**Email:** amalore.p@gmail.com · amalore.pushparaj@sabanciuniv.edu
