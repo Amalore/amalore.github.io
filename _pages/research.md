@@ -14,7 +14,7 @@ layout: single
 
 3. **Marie Amalore Nambi** and Neeraj Kumar, *Regularity of powers of $d$-sequence (parity) binomial edge ideals of unicycle graphs*, Communications in Algebra, 52, (2024), no. 6, 2598-2615. [![DOI](https://img.shields.io/badge/DOI-10.1080/00927872.2024.2302101-blue)](https://doi.org/10.1080/00927872.2024.2302101)
 
-4. 📄  **Marie Amalore Nambi** and Neeraj Kumar, *$d$-Sequence edge binomials and regularity of powers of binomial edge ideal of trees, Journal of Algebra and Its Applications, 23, (2024), no. 10, Article No. 2450154, 18 pp. [![DOI](https://img.shields.io/badge/DOI-10.1142/S0219498824501548-blue)](https://doi.org/10.1142/S0219498824501548)
+4. 📄  **Marie Amalore Nambi** and Neeraj Kumar, *$d$-Sequence edge binomials and regularity of powers of binomial edge ideal of trees*, Journal of Algebra and Its Applications, 23, (2024), no. 10, Article No. 2450154, 18 pp. [![DOI](https://img.shields.io/badge/DOI-10.1142/S0219498824501548-blue)](https://doi.org/10.1142/S0219498824501548)
 
 ## Preprints
 
