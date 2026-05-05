@@ -8,16 +8,13 @@ I am currently a postdoctoral researcher at Sabancı University, Istanbul, Turke
 ---
 
 ### Education
-<span style="font-size: 9px;">
-  
+<span style="font-size: 12px;">
 🎓 *PhD in Mathematics*, [Indian Institute of Technology Hyderabad](https://iith.ac.in/), India (June 2024) <br> 
 **Thesis:** *Binomial Edge Ideals, Lovász–Saks–Schrijver Ideals, and the Regularity of Their Powers*  <br>
-**Supervisor:** Prof. Neeraj Kumar
-
+**Supervisor:** Prof. Neeraj Kumar  <br> <br>
 🎓 *MPhil in Mathematics*, [Anna University Chennai](https://www.annauniv.edu/)  <br>
 **Thesis:** *Performance Analysis for Queueing Systems with Close-Down Periods and Server Maintenance*  <br>
-**Supervisor:** Prof. Krishna Kumar
-
+**Supervisor:** Prof. Krishna Kumar  <br> <br>
 🎓 *MSc in Mathematics*, [Loyola College Chennai](https://www.loyolacollege.edu/)
 </span>
   
