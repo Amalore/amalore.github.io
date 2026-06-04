@@ -1,6 +1,6 @@
 title: "Amalore Nambi"
 name: "Marie Amalore Nambi"
-description: "Academic webpage"
+description: "Postdoctoral researcher at Sabancı University working in commutative algebra and combinatorics"
 
 url: "https://amalore.github.io"   # IMPORTANT
 baseurl: ""                             # keep empty
@@ -35,3 +35,4 @@ include:
 plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
+  - jekyll-sitemap
