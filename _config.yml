@@ -2,6 +2,8 @@ title: "Amalore Nambi"
 name: "Marie Amalore Nambi"
 description: "Postdoctoral researcher at Sabancı University working in commutative algebra and combinatorics"
 
+google_site_verification: "PRzNo8Uwp7wRvJQSDM4waT9NgisBwRodnTOv7YdyBgQ"
+
 url: "https://amalore.github.io"   # IMPORTANT
 baseurl: ""                             # keep empty
 
@@ -36,3 +38,5 @@ plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
   - jekyll-sitemap
+
+
