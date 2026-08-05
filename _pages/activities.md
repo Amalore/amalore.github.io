@@ -50,11 +50,4 @@ layout: single
 
 - Awarded Hansraj Jeevandos Prize and Joseph Simon Memorial Medal for proficiency in Mathematics (Part III), 2013.
 
-## Teaching Assistant
-I was teaching assistant of the following courses during my doctoral studies at the Department of Mathematics, Indian Institute of Technology Hyderabad, India.
-
-- MA2070 Introduction to Group Theory
-- MA4020 Linear Algebra
-- MA1110 Calculus I
-- MA1220 Calculus II
 
