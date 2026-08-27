@@ -1,11 +1,15 @@
---- layout: single author_profile: true 
+--- 
+layout: 
+single 
+author_profile: true 
 ---
 
-About Me
+### About Me
 
-I am a Postdoctoral Researcher in Mathematics at Sabancı University, Istanbul, Türkiye, where I work under the supervision of Professor Ayesha Asloob Qureshi.
+I am a Postdoctoral Researcher in Mathematics at Sabancı University, Istanbul, Türkiye, where I work under the supervision of Professor [Ayesha Asloob Qureshi](https://sites.google.com/view/ayeshaasloobqureshi/bio).
 
 My research lies at the intersection of commutative algebra and algebraic combinatorics, with particular emphasis on monomial ideals, binomial ideals, and Lovász–Saks–Schrijver ideals associated with graphs and simplicial complexes. I am especially interested in studying the algebraic and homological properties of these ideals and their powers.
+
 ---
 
 ### Education 
