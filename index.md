@@ -1,9 +1,8 @@
---- 
-layout: 
-single author_profile: true 
+---
+layout: single
+author_profile: true
 ---
 
-### About Me
 
 I am a Postdoctoral Researcher in Mathematics at Sabancı University, Istanbul, Türkiye, where I work under the supervision of Professor [Ayesha Asloob Qureshi](https://sites.google.com/view/ayeshaasloobqureshi/bio).
 
