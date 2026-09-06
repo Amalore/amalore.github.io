@@ -1,7 +1,4 @@
----
-title: "About me"
-permalink: /
----
+
 
 I am a postdoctoral researcher in mathematics at [Sabancı University](https://www.sabanciuniv.edu/), Istanbul, Türkiye, working with Professor [Ayesha Asloob Qureshi](https://sites.google.com/view/ayeshaasloobqureshi/bio).
 
