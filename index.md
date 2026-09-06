@@ -12,32 +12,28 @@ My research lies at the intersection of **commutative algebra** and **algebraic 
 </div>
 
 <div class="academic-links">
-  <a class="btn btn--primary" href="/research/">Research overview</a>
   <a class="btn btn--primary" href="/publications/">Publications</a>
 </div>
 
 ## Education
 
 <div class="education-entry">
-  <h3>Ph.D. in Mathematics <span>2024</span></h3>
+  <h3>Ph.D. in Mathematics </h3>
   <p><a href="https://iith.ac.in/">Indian Institute of Technology Hyderabad</a>, India</p>
   <p><strong>Thesis:</strong> <em>Binomial Edge Ideals, Lovász–Saks–Schrijver Ideals, and the Regularity of Their Powers</em><br>
   <strong>Advisor:</strong> <a href="https://sites.google.com/math.iith.ac.in/neeraj/homepage">Dr. Neeraj Kumar</a></p>
 </div>
 
 <div class="education-entry">
-  <h3>M.Phil. in Mathematics <span>2016</span></h3>
+  <h3>M.Phil. in Mathematics </h3>
   <p><a href="https://www.annauniv.edu/">Anna University</a>, Chennai, India</p>
   <p><strong>Thesis:</strong> <em>Performance Analysis for Queueing Systems with Close-Down Periods and Server Maintenance</em><br>
   <strong>Advisor:</strong> Prof. Krishna Kumar</p>
 </div>
 
 <div class="education-entry">
-  <h3>M.Sc. in Mathematics <span>2015</span></h3>
+  <h3>M.Sc. in Mathematics </h3>
   <p><a href="https://www.loyolacollege.edu/">Loyola College</a>, Chennai, India</p>
 </div>
 
-<div class="education-entry">
-  <h3>B.Sc. in Mathematics <span>2013</span></h3>
-  <p><a href="https://www.loyolacollege.edu/">Loyola College</a>, Chennai, India</p>
-</div>
+
