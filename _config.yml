@@ -11,7 +11,7 @@ encoding: "utf-8"
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes@4.28.1"
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "aqua"
 masthead_title: "Marie Amalore Nambi"
 search: false
 breadcrumbs: false
