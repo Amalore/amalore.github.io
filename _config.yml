@@ -1,35 +1,60 @@
-title: "Amalore Nambi"
+title: "Marie Amalore Nambi"
 name: "Marie Amalore Nambi"
-description: "Postdoctoral researcher at Sabancı University working in commutative algebra and combinatorics"
+description: >-
+  Academic website of Marie Amalore Nambi, a postdoctoral researcher in
+  commutative algebra and algebraic combinatorics at Sabancı University.
+url: "https://amalore.github.io"
+baseurl: ""
+repository: "Amalore/amalore.github.io"
+locale: "en-US"
+encoding: "utf-8"
 
-google_site_verification: "tdV_9i-0jSC9mJ5l2rpZwCpxPhT2SN1wEA0E80ntTjI"
+# Theme
+remote_theme: "mmistakes/minimal-mistakes@4.28.1"
+minimal_mistakes_skin: "air"
+masthead_title: "Marie Amalore Nambi"
+search: false
+breadcrumbs: false
 
-url: "https://amalore.github.io"   # IMPORTANT
-baseurl: ""                             # keep empty
-
-remote_theme: "mmistakes/minimal-mistakes"
-
-minimal_mistakes_skin: "aqua"
-
-icon: "fas fa-database"
-
+# Site author
 author:
-  name: "Marie Amalore Nambi"   # FIXED
-  avatar: "/images/profile.png"
-  bio: "Postdoctoral Researcher"
-  location: "Sabancı University, Istanbul"
-  email: "amalore.p@gmail.com"
+  name: "Marie Amalore Nambi"
+  avatar: "/images/profile.jpg"
+  bio: "Postdoctoral Researcher in Mathematics"
+  location: "Sabancı University · Istanbul, Türkiye"
+  email: "amalore.pushparaj@sabanciuniv.edu"
   links:
-    
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/Amalore"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=MZbDLuIAAAAJ&hl=en"
-    - label: Scopus
-      icon: "fas fa-database"  # 'fab' for brands, 'fas' for solid
+    - label: "arXiv"
+      icon: "fas fa-file-alt"
+      url: "https://arxiv.org/a/amalorenambi_m_1.html"
+    - label: "Scopus"
+      icon: "fas fa-database"
       url: "https://www.scopus.com/authid/detail.uri?authorId=57902619400"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/Amalore"
+
+footer:
+  links:
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=MZbDLuIAAAAJ&hl=en"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/Amalore"
+
+# Page defaults
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      share: false
 
 include:
   - _pages
@@ -39,4 +64,13 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+atom_feed:
+  hide: true
 
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+
+google_site_verification: "tdV_9i-0jSC9mJ5l2rpZwCpxPhT2SN1wEA0E80ntTjI"
