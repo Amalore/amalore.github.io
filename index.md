@@ -1,21 +1,43 @@
 ---
-layout: single
-author_profile: true
+title: "About me"
+permalink: /
 ---
 
+I am a postdoctoral researcher in mathematics at [Sabancı University](https://www.sabanciuniv.edu/), Istanbul, Türkiye, working with Professor [Ayesha Asloob Qureshi](https://sites.google.com/view/ayeshaasloobqureshi/bio).
 
-I am a Postdoctoral Researcher in Mathematics at Sabancı University, Istanbul, Türkiye, where I work under the supervision of Professor [Ayesha Asloob Qureshi](https://sites.google.com/view/ayeshaasloobqureshi/bio).
+My research lies at the intersection of **commutative algebra** and **algebraic combinatorics**. I study algebraic and homological properties of ideals arising from graphs, hypergraphs, and related combinatorial structures.
 
-My research interests lie at the intersection of commutative algebra and algebraic combinatorics. I study the algebraic and homological properties of ideals arising from combinatorial structures, particularly graphs and simplicial complexes.
+<div class="notice--primary">
+  <strong>Current position:</strong> Postdoctoral Researcher, Faculty of Engineering and Natural Sciences, Sabancı University.
+</div>
 
----
+<div class="academic-links">
+  <a class="btn btn--primary" href="/research/">Research overview</a>
+  <a class="btn btn--primary" href="/publications/">Publications</a>
+</div>
 
-### Education 
+## Education
 
-<span style="font-size: 14px;"> 🎓 *PhD in Mathematics*, [Indian Institute of Technology Hyderabad](https://iith.ac.in/), India <br> 
-**Thesis:** *Binomial Edge Ideals, Lovász–Saks–Schrijver Ideals, and the Regularity of Their Powers* <br> 
-**Supervisor:** [Prof. Neeraj Kumar](https://sites.google.com/math.iith.ac.in/neeraj/homepage) <br> <br> 
-🎓 *MPhil in Mathematics*, [Anna University Chennai](https://www.annauniv.edu/) <br> 
-**Thesis:** *Performance Analysis for Queueing Systems with Close-Down Periods and Server Maintenance* <br> 
-**Supervisor:** Prof. Krishna Kumar <br> <br> 
-🎓 *MSc in Mathematics*, [Loyola College Chennai](https://www.loyolacollege.edu/) </span>
+<div class="education-entry">
+  <h3>Ph.D. in Mathematics <span>2024</span></h3>
+  <p><a href="https://iith.ac.in/">Indian Institute of Technology Hyderabad</a>, India</p>
+  <p><strong>Thesis:</strong> <em>Binomial Edge Ideals, Lovász–Saks–Schrijver Ideals, and the Regularity of Their Powers</em><br>
+  <strong>Advisor:</strong> <a href="https://sites.google.com/math.iith.ac.in/neeraj/homepage">Dr. Neeraj Kumar</a></p>
+</div>
+
+<div class="education-entry">
+  <h3>M.Phil. in Mathematics <span>2016</span></h3>
+  <p><a href="https://www.annauniv.edu/">Anna University</a>, Chennai, India</p>
+  <p><strong>Thesis:</strong> <em>Performance Analysis for Queueing Systems with Close-Down Periods and Server Maintenance</em><br>
+  <strong>Advisor:</strong> Prof. Krishna Kumar</p>
+</div>
+
+<div class="education-entry">
+  <h3>M.Sc. in Mathematics <span>2015</span></h3>
+  <p><a href="https://www.loyolacollege.edu/">Loyola College</a>, Chennai, India</p>
+</div>
+
+<div class="education-entry">
+  <h3>B.Sc. in Mathematics <span>2013</span></h3>
+  <p><a href="https://www.loyolacollege.edu/">Loyola College</a>, Chennai, India</p>
+</div>
