@@ -115,9 +115,13 @@ body {
 
 .education-entry h3 span {
   color: var(--academic-muted);
-  font-size: 0.8em;
+  font-size: 0.6em;
   font-weight: 500;
   white-space: nowrap;
+}
+
+.education-entry p {
+  font-size: 0.5rem; /* University, thesis, and advisor */
 }
 
 .education-entry p {
