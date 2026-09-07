@@ -108,7 +108,7 @@ body {
 
 .education-entry h3 {
   display: flex;
-  font-size: 0.7rem;
+  font-size: 0.9rem;
   gap: 1rem;
   justify-content: space-between;
   margin-bottom: 0.25rem;
@@ -116,13 +116,13 @@ body {
 
 .education-entry h3 span {
   color: var(--academic-muted);
-  font-size: 0.5rem;
+  font-size: 0.7rem;
   font-weight: 300;
   white-space: nowrap;
 }
 
 .education-entry p {
-  font-size: 0.5rem; /* University, thesis, and advisor */
+  font-size: 0.7rem; /* University, thesis, and advisor */
 }
 
 .education-entry p {
