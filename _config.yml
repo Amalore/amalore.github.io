@@ -20,9 +20,9 @@ breadcrumbs: false
 author:
   name: "Marie Amalore Nambi"
   avatar: "/images/profile.jpg"
-  bio: "Postdoctoral Researcher in Mathematics"
+  bio: "Postdoctoral Researcher"
   location: "Sabancı University · Istanbul"
-  email: "amalore.pushparaj@sabanciuniv.edu"
+  email: "amalore.p@gmail.com"
   links:
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
