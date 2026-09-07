@@ -18,7 +18,7 @@ My research lies at the intersection of **commutative algebra** and **algebraic 
   <h3>Ph.D. in Mathematics </h3>
   <p><a href="https://iith.ac.in/">Indian Institute of Technology Hyderabad</a>, India</p>
   <p><strong>Thesis:</strong> <em>Binomial Edge Ideals, Lovász–Saks–Schrijver Ideals, and the Regularity of Their Powers</em><br>
-  <strong>Advisor:</strong> <a href="https://sites.google.com/math.iith.ac.in/neeraj/homepage">Dr. Neeraj Kumar</a></p>
+  <strong>Advisor:</strong> <a href="https://sites.google.com/math.iith.ac.in/neeraj/homepage">Prof. Neeraj Kumar</a></p>
 </div>
 
 <div class="education-entry">
