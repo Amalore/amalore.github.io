@@ -5,7 +5,7 @@ permalink: /contact/
 
 ## Office
 
-G-13, Faculty of Engineering and Natural Sciences  
+G-23, Faculty of Engineering and Natural Sciences  
 [Sabancı University](https://www.sabanciuniv.edu/)  
 Istanbul, Türkiye
 
