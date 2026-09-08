@@ -36,4 +36,4 @@ permalink: /publications/
 
 {: .publication-list}
 
-For the most recent versions, see my [arXiv author page](https://arxiv.org/a/amalorenambi_m_1.html) or [Google Scholar profile](https://scholar.google.com/citations?user=MZbDLuIAAAAJ&hl=en).
+For the most recent versions, see my [arXiv page](https://arxiv.org/a/amalorenambi_m_1.html).
