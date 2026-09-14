@@ -2,7 +2,7 @@
 
 I am a postdoctoral researcher in mathematics at [Sabancı University](https://www.sabanciuniv.edu/), Istanbul, Türkiye, working with Professor [Ayesha Asloob Qureshi](https://sites.google.com/view/ayeshaasloobqureshi/bio).
 
-My research lies at the intersection of **commutative algebra** and **algebraic combinatorics**. I study algebraic and homological properties of ideals arising from graphs, hypergraphs, and related combinatorial structures.
+My research lies at the intersection of commutative algebra and algebraic combinatorics. I study algebraic and homological properties of ideals arising from graphs, hypergraphs, and related combinatorial structures.
 
 <div class="notice--primary">
   <strong>Current position:</strong> Postdoctoral Researcher, Faculty of Engineering and Natural Sciences, Sabancı University.
