@@ -5,10 +5,6 @@ I am a postdoctoral researcher in mathematics at [Sabancı University](https://w
 My research lies at the intersection of commutative algebra and algebraic combinatorics. I study algebraic and homological properties of ideals arising from graphs, hypergraphs, and related combinatorial structures.
 
 
-<div class="academic-links">
-  <a class="btn btn--primary" href="/publications/">Publications</a>
-</div>
-
 ## Education
 
 <div class="education-entry">
