@@ -36,7 +36,7 @@ permalink: /publications/
 1. **Marie Amalore Nambi** and Ayesha Asloob Qureshi, “Squarefree Powers of Closed Neighborhood Ideals.”  
    [arXiv](https://arxiv.org/abs/2603.15229){: .btn .btn--primary .btn--small }
 
-2. **Marie Amalore Nambi**  Francesco Navarra, Ayesha Asloob Qureshi, and Dharm Veer Ayesha Asloob Qureshi, “Squarefree powers of simplicial forests.”  
+2. **Marie Amalore Nambi**,  Francesco Navarra, Ayesha Asloob Qureshi, and Dharm Veer, “Squarefree powers of simplicial forests.”  
    [arXiv]((https://arxiv.org/abs/2611.27531)){: .btn .btn--primary .btn--small }
 
 
